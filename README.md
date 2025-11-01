@@ -22,6 +22,6 @@ The blocker doesn’t run on:
 - youtube.com  
 
 ## 💡 Usage
-1. Copy the script from `simplify-popup.js`.  
+1. Copy the script from `simplify-popup-v1.0.0.js`.  
 2. Inject code it into your browser Chrome extentions like **User JavaScript and CSS**.
 3. Enjoy a cleaner interface without annoying Simplify pop-ups.
