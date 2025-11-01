@@ -34,7 +34,7 @@ Inject code it into your browser Chrome extentions like **User JavaScript and CS
 
 ### [1.1.0] - 2025-11-01
 #### Added
-- Improved compatibility with Telegram and YouTube  
+- Improved compatibility with Telegram, Gmail, YouTube, ChatGPT, etc.
 - Enhanced iframe handling (skips inaccessible frames)  
 - Automatic scroll restoration after cleanup  
 - Better DOM cleanup stability  
