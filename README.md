@@ -28,14 +28,6 @@ The blocker doesn’t run on:
 
 Inject code it into your browser Chrome extentions like **User JavaScript and CSS**.
 
-// v1.1.0 by 11/01/2025
-
----
-
-## 🪪 License
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute this script under the same terms.  
-
 ---
 
 ## 🧾 Changelog
