@@ -22,6 +22,40 @@ The blocker doesn’t run on:
 - youtube.com  
 
 ## 💡 Usage
-1. Copy the script from `simplify-popup.js`.  
+1. Copy the script from `simplify-popup-v1.1.0.js`.  
 2. Inject code it into your browser Chrome extentions like **User JavaScript and CSS**.
 3. Enjoy a cleaner interface without annoying Simplify pop-ups.
+
+Inject code it into your browser Chrome extentions like **User JavaScript and CSS**.
+
+// v1.1.0 by 11/01/2025
+
+---
+
+## 🪪 License
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this script under the same terms.  
+
+---
+
+## 🧾 Changelog
+
+### [1.1.0] - 2025-11-01
+#### Added
+- Improved compatibility with Telegram and YouTube  
+- Enhanced iframe handling (skips inaccessible frames)  
+- Automatic scroll restoration after cleanup  
+- Better DOM cleanup stability  
+
+#### Fixed
+- Occasional scroll lock after popup removal  
+- Minor performance and logging improvements  
+
+---
+
+### [1.0.0] - 2025-11-01
+#### Added
+- Initial release of Simplify Popup Blocker  
+- Automatic removal of Simplify-related pop-ups  
+- Support for Shadow DOM and nested iframes  
+- Continuous 200ms scanning interval  
